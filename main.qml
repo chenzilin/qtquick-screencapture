@@ -3,8 +3,8 @@ import QtQuick.Window 2.2
 import QtQuick.Controls 1.2
 
 Rectangle {
-    width: 1280
-    height: 422
+    width: 480
+    height: 360
     color: "black"
 
     Image {
