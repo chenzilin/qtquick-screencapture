@@ -1,0 +1,8 @@
+*~
+*.obj
+*.swp
+*.user
+bin/*
+build/*
+Makefile
+screencapture.jpg
